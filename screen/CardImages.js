@@ -1,0 +1,15 @@
+export const Images = [
+  require("../assets/GameImages/card2.png"),
+  require("../assets/GameImages/card3.png"),
+  require("../assets/GameImages/card4.png"),
+  require("../assets/GameImages/card5.png"),
+  require("../assets/GameImages/card6.png"),
+  require("../assets/GameImages/card7.png"),
+  require("../assets/GameImages/card8.png"),
+  require("../assets/GameImages/card9.png"),
+  require("../assets/GameImages/card10.png"),
+  require("../assets/GameImages/card11.png"),
+  require("../assets/GameImages/card12.png"),
+  require("../assets/GameImages/card13.png"),
+  require("../assets/GameImages/card14.png"),
+];

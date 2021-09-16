@@ -9,7 +9,7 @@ import {
   Image,
   Keyboard,
 } from "react-native";
-import PlayScreen from "./screen/PlayScreen";
+import PlayScreen from "./screen/PlayScreen/PlayScreen";
 // import PlayScreen from "./screen/PlayScreen";
 
 export default function App() {

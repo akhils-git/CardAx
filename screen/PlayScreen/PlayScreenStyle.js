@@ -12,18 +12,18 @@ const PlayScreenStyles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "center",
     paddingTop: 25,
-    backgroundColor: "red",
+    backgroundColor: Colors.Title,
   },
   cardPlayView: {
     flexDirection: "row",
     justifyContent: "space-around",
-    backgroundColor: "blue",
+    backgroundColor: Colors.CardPlayArea,
   },
   playButton: {
     backgroundColor: "green",
     padding: 90,
     alignItems: "center",
-    backgroundColor: "red",
+    backgroundColor: Colors.ButtonArea,
   },
   dealButtonImage: {
     width: 150,
@@ -32,14 +32,13 @@ const PlayScreenStyles = StyleSheet.create({
   playBoard: {
     flexDirection: "row",
     justifyContent: "space-around",
-    backgroundColor: "green",
+    backgroundColor: Colors.Background,
     padding: 10,
-    backgroundColor: "blue",
   },
   playBoardTotalScore: {
     flexDirection: "row",
     justifyContent: "space-around",
-    backgroundColor: "green",
+    backgroundColor: Colors.Background,
     padding: 10,
   },
 
